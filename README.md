@@ -2,11 +2,11 @@
 
 \# Promotion-and-Proposal-Analysis-Project
 
-About the Dataset
-
+**About the Dataset
+**
 This project uses a relational database from CompanyX, containing multiple interconnected tables designed to support analysis of sales performance, promotions, and proposal strategies.
 
-Key dataset components:
+# Key dataset components:
 
 Sales Tables
 
